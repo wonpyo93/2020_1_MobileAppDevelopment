@@ -1,0 +1,33 @@
+name: Shrine
+description: Learn how to use Material for structure and layout.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.15.0+1
+  google_sign_in: ^4.0.14
+  cloud_firestore: ^0.13.0+1
+
+  webview_flutter:
+
+  carousel_slider: ^1.3.0
+
+  intl: ^0.15.6
+
+  cupertino_icons: ^0.1.0
+  shrine_images: 1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/diamond.png
+    - assets/hotel-0.jpg
+    - assets/hotel-1.jpg
+    - assets/hotel-2.jpg
+    - assets/hotel-3.jpg
+    - assets/hotel-4.jpg
+    - assets/hotel-5.jpg

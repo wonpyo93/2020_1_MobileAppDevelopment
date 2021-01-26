@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184646807600",
+    "firebase_url": "https://wordchallenge-97eca.firebaseio.com",
+    "project_id": "wordchallenge-97eca",
+    "storage_bucket": "wordchallenge-97eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184646807600:android:54e287ca8d9d28bb1f3df5",
+        "android_client_info": {
+          "package_name": "com.example.wordchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184646807600-frupd5nnir9bb3rqicjva4e57eu3a9kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wordchallenge",
+            "certificate_hash": "fc788e5419fa469256eb93aaeb4a85029b4a12cd"
+          }
+        },
+        {
+          "client_id": "184646807600-dkees5c90fdcuahbhg36felfjaig1oui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLiqvlsTqWIBIb8n4rFxL3VUT5QTrNkPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184646807600-dkees5c90fdcuahbhg36felfjaig1oui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
